@@ -1,9 +1,4 @@
-# Linux Networking Basics (Only Required for RHCSA Practical)
-
-> **Goal of this session**
->
-> This session is only for learning the basic networking concepts required to configure a Linux system.
-
+# Linux Networking
 ---
 
 # What is a Network?
