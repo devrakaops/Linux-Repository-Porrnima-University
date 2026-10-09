@@ -1,4 +1,4 @@
-# Day-12 Part-1 |  Linux Storage Management
+#Part-1 |  Linux Storage Management
 
 ## Introduction
 
